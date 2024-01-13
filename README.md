@@ -2,4 +2,4 @@
 
 CS2 Surf Plugin with CCS API 
 
-Author: @Nxooah / @f1fty
+Author: @Nxooah / @fiftyy
